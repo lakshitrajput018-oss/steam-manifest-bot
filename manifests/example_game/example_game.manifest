@@ -1,0 +1,16 @@
+// Example Manifest File for Steam Tools
+// Replace this with your actual manifest content
+
+manifest_version = "2"
+app_id = "123456"
+app_name = "Example Game"
+universe = "public"
+
+// Depot information
+depot_id = "123457"
+depot_name = "Base Game"
+manifest_id = "1234567890123456"
+
+// File listing would go here
+// This is a simplified example
+version = "1.0.0"
