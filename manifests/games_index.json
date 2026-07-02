@@ -3,8 +3,12 @@
     {
       "name": "example_game",
       "display_name": "Example Game",
-      "app_id": "123456",
-      "description": "Example game for manifest generation"
+      "app_id": "123456"
+    },
+    {
+      "name": "meccha_chameleon",
+      "display_name": "Meccha Chameleon",
+      "app_id": "4704690"
     }
   ]
 }
